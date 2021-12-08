@@ -15,3 +15,7 @@ The GRU is the newer generation of Recurrent Neural networks and is pretty simil
 ----------------------------------------------------
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+# dataset link-
+please download dataset from below link
+https://www.kaggle.com/kazanova/sentiment140
