@@ -1,1 +1,11 @@
-
+# here are required libraries
+currently using python version > 3. I am using google colab \. you either anaconda or another platform
+numpy 
+pandas
+seaborn
+matplotlib
+sklearn
+nltk
+collections 
+re
+tensorflow
